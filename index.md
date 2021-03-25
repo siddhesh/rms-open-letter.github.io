@@ -155,7 +155,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Macafee (@lxmcf)
 1. Alex YeongGwon Jeong
 1. Alex McCabe (@alexdmccabe, Red Hat, Drupal community)
-1. Alex Jones ( VP JPMC, Principal Engineer )
 1. Alex Murray
 1. Alex Ose
 1. Alex Reynolds (BEDOPS and other open-source bioinformatics projects)
@@ -513,7 +512,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dakota "Kai" Lyons (owner, Fivnex.co)
 1. Dale Hirt
 1. Daltro Augusto (@daltroaugusto)
-1. Damian Senn
 1. Damien Duportal (CloudBees, @dduportal, Jenkins, Asciidoctor)
 1. Damien Stanton (@damienstanton)
 1. Dan Arel (owner, ThinkPrivacy.ch)
@@ -581,7 +579,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. David Grynnerup Pedersen
 1. David Holmes
 1. David JM Emmett
-1. David J. Fiddes
 1. David Jones (former FSF associate member)
 1. David Jones (kerning consultant)
 1. David Lopez (@gonzoucab)
@@ -671,7 +668,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eli Heuer
 1. Eliott Lavier
 1. Elizabeth Bell (Mozilla)
-1. Elizabeth Anne Cray
 1. Elizabeth Denys `lizdenys`
 1. Ellie (@ell1e on GitHub)
 1. Emanuele Aina (Collabora)
@@ -878,7 +874,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hexandcube
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
-1. Hiroaki Yutani
 1. Hisham Muhammad (htop, LuaRocks, GoboLinux)
 1. Holden Karau (Apache Spark PMC)
 1. Holger Levsen (Debian Developer, reproducible-builds.org)
@@ -1121,7 +1116,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Joshua Timberman
 1. Joyce Kung
 1. Joy Scharmen
-1. József Gábor Lázár (`@joelazar`)
 1. J-R Conlin (jrconlin)
 1. J. Ryan Stinnett
 1. JT Perry
@@ -1275,7 +1269,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Luc Rocher (Imperial College London)
 1. Luca Andrea Fusè
 1. Luca Martinelli
-1. Lucas Biaggi (KDE contributor)
 1. Lucas Bickel
 1. Lucas Holt
 1. Lucas Ives (@lri)
@@ -1535,7 +1528,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Niels Thykier (Debian Developer)
 1. Nikhita Raghunath (Kubernetes Steering Committee Member)
 1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
-1. Nikita Orlov (`rozenov` Virtualization engineer, Red Hat inc. supporter, Fedora contributor and former Xen contributor)
 1. Nik Kantar
 1. Nikolai Vazquez
 1. Nikos Roussos (FSFE, GA member)
@@ -1815,7 +1807,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Scott Starr
 1. Scott Sweeny
 1. Scott Walters
-1. Sean Davis (Xfce, Xubuntu)
 1. Sean Eric Fagan
 1. Sean Howard
 1. Sean Knox
@@ -1848,6 +1839,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sherman Mui
 1. Shiz (former Alpine Linux developer)
 1. Shmueli Yosef Englard (@Shmuelie)
+1. Siddhesh Poyarekar (glibc contributor, FSF associate member)
 1. Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 1. Silje Christiansen
 1. Simeon "n0emis" Keske
@@ -1943,7 +1935,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Di Giacomo (CTO, SUSE)
 1. Thomas Guillem (VLC developer)
-1. Thomas Jepp
 1. Thomas Kluyver (various Python projects)
 1. Thomas Maszerowski
 1. Thomas Renger
